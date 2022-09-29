@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ej1.iml" filepath="$PROJECT_DIR$/.idea/ej1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ej1_1/ej1_1.iml" filepath="$PROJECT_DIR$/ej1_1/ej1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ej1_2/ej1_2.iml" filepath="$PROJECT_DIR$/ej1_2/ej1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ej1_3/ej1_3.iml" filepath="$PROJECT_DIR$/ej1_3/ej1_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ej1_4/ej1_4.iml" filepath="$PROJECT_DIR$/ej1_4/ej1_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ej1_5/ej1_5.iml" filepath="$PROJECT_DIR$/ej1_5/ej1_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ej1_6/ej1_6.iml" filepath="$PROJECT_DIR$/ej1_6/ej1_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ej1_7/ej1_7.iml" filepath="$PROJECT_DIR$/ej1_7/ej1_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ej1_8/ej1_8.iml" filepath="$PROJECT_DIR$/ej1_8/ej1_8.iml" />
+    </modules>
+  </component>
+</project>
